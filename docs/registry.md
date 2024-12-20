@@ -672,7 +672,7 @@ You can also specify the full name for a tool using `mise use aqua:1password/cli
 | skaffold | [aqua:GoogleContainerTools/skaffold](https://github.com/GoogleContainerTools/skaffold) [asdf:nklmilojevic/asdf-skaffold](https://github.com/nklmilojevic/asdf-skaffold) |
 | skate | [aqua:charmbracelet/skate](https://github.com/charmbracelet/skate) [asdf:chessmango/asdf-skate](https://github.com/chessmango/asdf-skate) |
 | sloth | [aqua:slok/sloth](https://github.com/slok/sloth) [asdf:slok/asdf-sloth](https://github.com/slok/asdf-sloth) |
-| slsa-verifier | [ubi:slsa-framework/slsa-verifier](https://github.com/slsa-framework/slsa-verifier) |
+| slsa-verifier | [aqua:slsa-framework/slsa-verifier](https://github.com/slsa-framework/slsa-verifier) [ubi:slsa-framework/slsa-verifier](https://github.com/slsa-framework/slsa-verifier) |
 | smithy | [asdf:aws/asdf-smithy](https://github.com/aws/asdf-smithy) |
 | smlnj | [asdf:samontea/asdf-smlnj](https://github.com/samontea/asdf-smlnj) |
 | snyk | [aqua:snyk/cli](https://github.com/snyk/cli) [asdf:nirfuchs/asdf-snyk](https://github.com/nirfuchs/asdf-snyk) |
